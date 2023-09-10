@@ -1,3 +1,4 @@
+#planning to make another py file using function to simplify this
 
 #start by asking the user whats your date name
 print ('Congrats, you got a date')
